@@ -1,2 +1,10 @@
 # Char_Parser
- A Python application that would parse characters in a text file
+To install:
+```
+git clone https://github.com/AshuHK/Char_Parser.git
+```
+
+To run the program:
+```
+python main.py
+```
